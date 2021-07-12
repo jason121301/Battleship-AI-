@@ -1,0 +1,12 @@
+# CSC111 Final Project Libraries
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Graphics and data visualization
+plotly
+pygame~=2.0.1
+
+
